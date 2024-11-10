@@ -1,0 +1,683 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    
+}
+
+body {
+    background-image: url('https://wallpapers.com/images/hd/plain-dark-green-wallpaper-oo8fmd1i1moxvbcx.jpg'); 
+    background-size: cover; 
+    
+     
+    font-family: Arial, sans-serif;
+    color: white;
+
+}
+
+
+h1 {
+    background-color: gold;
+    color: black;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    font-family: "Bungee Tint", sans-serif;
+}
+
+h2{
+    text-align: center;
+    color: gold;
+
+}
+
+h3 {text-align: center;
+    color: black;
+    background-color: gold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#RealMadrid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTokfXiRCE9W46l7D4_l2inhOnArfqwqXrY4A&s');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+}
+
+
+.imagen-container {
+    width: 50%; /* Ajusta el ancho según sea necesario */
+    max-width: auto; /* Ancho máximo para la imagen */
+    text-align: center;
+}
+
+.imagen-container img {
+    width: 1000px;
+    height:400px;
+    max-height: 800px;
+}
+
+
+#Barcelona {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2aTkBSko0QaHQq2GdqjFMUnyqHSXuiwyp7A&s');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+}
+
+
+
+#Atletico {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0q1kAiBenNfoRG9LtmMQPokTOhrrB128COQ&s');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+}
+
+
+
+#United {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://img.freepik.com/vector-premium/fondo-abstracto-color-rojo-liso-simplemente-telon-fondo_87543-97.jpg?semt=ais_hybrid');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#Chelsea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20200621/pngtree-smooth-modern-blue-background-image_339736.jpg');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#City {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://img.freepik.com/foto-gratis/fondo-azul-degradado-lujo-abstracto-azul-oscuro-liso-banner-estudio-vineta-negra_1258-54041.jpg');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#Milan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgOoDlxwGkAxEX-ZiuP1MSpTy17Ca7eoPaA&s');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#Inter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+    background-image: url('https://st3.depositphotos.com/10941340/36510/i/450/depositphotos_365104960-stock-photo-dark-blurry-simple-background-blue.jpg');
+    width: 100%; 
+    margin: 0 auto; 
+
+}
+
+#Juventus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+    background-image: url('https://img.freepik.com/vector-gratis/patron-trazo-tinta-zigzag_1409-8683.jpg');
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+#Monaco {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQTJh7dmDqpLogTf2IrTTjJhpWIx1pJcrZxg&s');
+    width: 100%; 
+    margin: 0 auto; 
+
+}
+
+#Psg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+     
+     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QWVCrAoOYoVGrBnzHgdX56X1d-gEQzkNjQ&s');
+    width: 100%; 
+    margin: 0 auto; 
+
+}
+
+#Lyon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY63_MWQpJ6YeBI6GmNM9ZJ3R-RLa9PDmQZw&s');
+    width: 100%; 
+    margin: 0 auto; 
+
+}
+
+#Borussia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://i.pinimg.com/originals/3f/94/01/3f94015739664edd496b43050d753005.jpg');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#Bayer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://img.freepik.com/vector-premium/fondo-abstracto-color-rojo-liso-simplemente-telon-fondo_87543-97.jpg?semt=ais_hybrid');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#Leipzik{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnOSPhfpioKNqkD2Ga1-A7c9RRM-eEaFAYoA&s');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#Argentina{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://img.freepik.com/foto-gratis/fondo-papel-tapiz-colorido-borroso-artistico_58702-8246.jpg');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#Brasil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://img.freepik.com/fotos-premium/fondo-verde-amarillo-textura-ondulada-abstracta-gradiente-simple-moderno_847417-20809.jpg');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#Inglaterra{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://thumbs.dreamstime.com/b/fondo-blanco-y-azul-liso-con-rayas-horizontales-de-la-pendiente-estilo-vintage-para-utilizar-como-escritorio-en-los-videojuegos-173952702.jpg');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#Portugal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/005/574/357/small/red-and-green-free-vector.jpg');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+#Francia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según sea necesario */
+     /* Color de fondo para el área superior */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFm7Q7fNTPO302VX2Z4n3hpUQs_S7pHna1gA&s');
+    width: 100%; /* Ajusta el ancho según sea necesario, por ejemplo, 80% del ancho del contenedor padre */
+    margin: 0 auto; /* Centra el header horizontalmente */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contenedor {
+    display: flex;
+    gap: 30px; /* Espaciado entre los marcos */
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.marco {
+    background-color: #fff;
+    padding: 30px; /* Aumentar el padding */
+    border-radius: 10px; /* Bordes ligeramente más redondeados */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Sombra más prominente */
+    text-align: center;
+    max-width: 300px; /* Aumentar el ancho máximo */
+    border: 3px solid gold; /* Borde dorado más grueso */
+}
+
+.imagen img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px; /* Bordes ligeramente más redondeados */
+    transition: transform 0.3s, filter 0.3s;
+}
+
+.imagen img:hover {
+    transform: scale(1.1); /* Efecto de acercamiento */
+    filter: brightness(70%); /* Efecto de oscurecimiento */
+}
+
+.mensaje {
+    margin-top: 15px; /* Mayor espacio encima del mensaje */
+}
+
+.mensaje p {
+    font-size: 16px; /* Tamaño de fuente más grande */
+    color: #333;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 12px 24px; /* Botones más grandes */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+
+.logo img {
+    height: 50px;
+}
+
+.nav-items button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.nav-items button:hover {
+    background-color: #555;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contenedor-imagenes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Espacio entre las imágenes */
+}
+
+.imagen {
+    width: 300px; /* Ancho uniforme para todas las imágenes */
+    height: auto;
+    object-fit: cover;
+    border: 3px solid gold; /* Borde dorado */
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.image-container {
+    position: relative;
+    width: 300px; /* Ajusta el tamaño según sea necesario */
+    height: 300px; /* Ajusta el tamaño según sea necesario */
+    margin-bottom: 20px;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s ease, opacity 0.5s ease;
+    backface-visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.hover-image {
+    opacity: 0;
+    transform: rotateY(180deg);
+}
+
+.image-container:hover .main-image {
+    opacity: 0;
+    transform: rotateY(180deg);
+}
+
+.image-container:hover .hover-image {
+    opacity: 1;
+    transform: rotateY(0deg);
+}
+
+.text-container {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+
+
+
+
+.iframe-contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Espacio entre los iframes */
+    width: 100%;
+}
+
+iframe {
+    display: block;
+}
+
+
+
+
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+.contact-info,
+.location,
+.social-media {
+    margin-bottom: 40px;
+}
+
+.contact-item {
+    background-color: #FFD700; /* Fondo dorado */
+    padding: 10px;
+    margin: 10px auto;
+    display: inline-block;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.contact-item p {
+    margin: 0;
+}
+
+.contact-item a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.iframe-contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: gold;
+    
+}
+
+.social-icons a img {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s;
+}
+
+.social-icons a img:hover {
+    transform: scale(1.1);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+
+

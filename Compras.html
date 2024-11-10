@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Index.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <img src="LOGOO.png" alt="Logo" id="logo">
+        </div>
+        <div class="nav-items">
+            <button id="aboutUsButton">Sobre nosotros</button>
+            <button id="homeButton">Volver a página principal</button>
+            <button id="contactButton">Contactanos</button>
+        </div>
+    </nav>
+
+    <script>
+        document.getElementById('aboutUsButton').addEventListener('click', function() {
+            window.location.href = './Informacion.html'; 
+        });
+
+        document.getElementById('homeButton').addEventListener('click', function() {
+            window.location.href = './Index.html'; 
+        });
+
+        document.getElementById('contactButton').addEventListener('click', function() {
+            window.location.href = './Contactos.html'; 
+        });
+    </script>
+    
+
+    
+
+        
+            <div class="formulario-contenedores">
+                <select class="form-select form-select-lg mb-3" aria-label="Large select example">
+                    <option selected>TALLA NIÑOS</option>
+                    <option value="1">2T</option>
+                    <option value="2">3T</option>
+                    <option value="3">4T</option>
+                    <option value="4">5T</option>
+                    <option value="5">6T</option>
+                    <option value="6">7T</option>
+                    <option value="7">S</option>
+                    <option value="8">M</option>
+                    <option value="9">L(12)</option>
+                    <option value="10">XL(14)</option> 
+                    <option value="11">XXL(16)</option>
+                </select>
+                <select class="form-select form-select-lg mb-3" aria-label="Large select example">
+                    <option selected>TALLAS ADULTOS</option>
+                    <option value="1">XS</option>
+                    <option value="2">S</option>
+                    <option value="3">M</option>
+                    <option value="4">L</option>
+                    <option value="5">XL</option>
+                    <option value="6">XXL</option>
+                    <option value="7">XXL</option>
+                    <option value="8">XXXL</option>
+                    <option value="9">XXXXL</option>
+                </select>
+            </div>
+        
+
+          
+            
+                <div class="contenedor-padre">
+                    <div class="formulario-contenedor">
+                        <form id="formulario">
+                            <div class="mb-3">
+                                <label for="exampleInputEmail1" class="form-label">CORREO ELECTRONICO</label>
+                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                                <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                            </div>
+                            <div class="mb-3">
+                                <label for="exampleInputPassword1" class="form-label">NOMBRE DE USUSARIO</label>
+                                <input type="password" class="form-control" id="exampleInputPassword1">
+                            </div>
+                            <div class="mb-3">
+                                <label for="exampleInputInfo" class="form-label">NOMBRE CAMISETA</label>
+                                <input type="text" class="form-control" id="exampleInputInfo">
+                            </div>
+                            <div class="mb-3">
+                                <label for="exampleInputMoreInfo" class="form-label">NUMERO CAMISETA</label>
+                                <input type="text" class="form-control" id="exampleInputMoreInfo">
+                            </div>
+                            <div class="mb-3 form-check">
+                                <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                <label class="form-check-label" for="exampleCheck1">Guardar Correo</label>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Enviar</button>
+                        </form>
+                    </div>
+                </div>
+            
+                <script src="INDEX.JS"></script>
+            
+                 
+        
+            
+            
+            
+
+
+        
+          
+          
+
+
+
+
+
+ 
+    
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
